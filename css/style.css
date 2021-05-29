@@ -1125,6 +1125,7 @@ textarea {
   -o-transition: transform .2s linear;
   transition: transform .2s linear;
   transition: transform .2s linear, -webkit-transform .2s linear;
+  border-radius: 50%;
 }
 
 .user-header__icon::before {
